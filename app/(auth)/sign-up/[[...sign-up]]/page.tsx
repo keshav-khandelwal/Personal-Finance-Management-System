@@ -26,7 +26,7 @@ export default function Page() {
         <div className="flex-1 flex flex-col items-center justify-center p-6 text-white bg-gradient-to-br from-blue-600 to-indigo-700 rounded-t-xl lg:rounded-l-xl lg:rounded-tr-none">
           <div className="flex flex-col items-center justify-center flex-grow py-4 lg:py-0">
             <Image
-              src="/logo.png"
+              src="/Logo.png"
               height={280}
               width={280}
               alt="Project Logo"
