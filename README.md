@@ -103,19 +103,6 @@ finance-app/
    npm install
    ```
 
-3. **Configure Environment Variables:**
-
-   Create a `.env.local` file and add:
-
-   ```env
-   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-   CLERK_SECRET_KEY=
-   PLAID_CLIENT_ID=
-   PLAID_SECRET=
-   LEMON_SQUEEZY_API_KEY=
-   DATABASE_URL=
-   ```
-
 4. **Run the App:**
    ```bash
    npm run dev
